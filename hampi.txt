@@ -1,0 +1,2 @@
+create or replace table emp(id int,name varchar,loc varchar);
+insert into emp values(1,'a','hyd');
